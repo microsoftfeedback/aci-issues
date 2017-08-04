@@ -1,3 +1,12 @@
+# Azure Container Instance Issues
+
+This repo is intended for reporting and tracking issues and small feature requests for Azure Container Instances. It does not contain any source code.
+
+## Other resources
+
+- [Azure Container Instances documentation](https://docs.microsoft.com/azure/container-instances/)
+- [Azure Container Instances tag on Stack Overflow](https://stackoverflow.com/questions/tagged/azure-container-instances)
+- [ACI Connector for Kubernetes](https://github.com/azure/aci-connector-k8s.git)
 
 # Contributing
 
