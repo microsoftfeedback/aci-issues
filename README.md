@@ -1,12 +1,14 @@
 # Azure Container Instance Issues
 
-This repo is intended for reporting and tracking issues and small feature requests for Azure Container Instances. It does not contain any source code.
+This repo is intended for reporting and tracking issues and small feature requests for Azure Container Instances. We are also actively monitoring the following channels:
+
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/azure-container-instances): Ask questions about how the product works and how you might accomplish certain tasks with it
+- [Azure Feedback Forum](https://feedback.azure.com/forums/602224-azure-container-instances): Request larger features and vote on the suggestions of others.
 
 ## Other resources
 
 - [Azure Container Instances documentation](https://docs.microsoft.com/azure/container-instances/)
-- [Azure Container Instances tag on Stack Overflow](https://stackoverflow.com/questions/tagged/azure-container-instances)
-- [ACI Connector for Kubernetes](https://github.com/azure/aci-connector-k8s.git)
+- [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet.git)
 
 ## Contributing
 
